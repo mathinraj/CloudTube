@@ -1,0 +1,6 @@
+client_secret.json
+token.pickle
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
